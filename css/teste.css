@@ -96,3 +96,18 @@ text-decoration: none;
     #eco .articles article a {
         background-color: rgb(155, 90, 80);
     }
+    .articles article a {
+        color: white;
+    }
+    #tecnologia {
+        background-color: rgb(100, 40, 100, 0.5);
+    }
+#tecnologia .articles article a {
+    background-color: darkblue;
+}
+#entretenimento {
+    background-color:rgb(150, 50, 90, 0.4)
+}
+#entretenimento .articles article a {
+    background-color: black;
+}
